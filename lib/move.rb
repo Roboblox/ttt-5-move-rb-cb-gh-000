@@ -10,3 +10,8 @@ end
 def input_to_index(user_input)
   user_input = gets.to_i.to be(-1)
 end
+
+def move(board, index, player)
+  
+
+end
